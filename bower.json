@@ -1,0 +1,22 @@
+{
+  "name": "angular-model-instead-of-service",
+  "homepage": "https://github.com/kumudug/angular-model-instead-of-service",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "kumudu.gunasekara"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./Lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.7"
+  }
+}
